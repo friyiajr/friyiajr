@@ -2,7 +2,7 @@
 
 I'm Dan! A software engineer based out of Toronto who is passionate about React, React-Native, Flutter and pretty much anything front end 😄 
 
-- 🔭 I’m currently working on React and React Native projects for Narcity Media and loving it!
+- 🔭 I’m currently working on React and React Native projects and loving it!
 - 🌱 I’m currently learning to improve my Vim-Fu
 - 💬 Ask me about Bluetooth Low Energy, C++ and highly optimized mobile apps
 - 📫 Send me an [email](dfriyia@gmail.com)
