@@ -2,7 +2,7 @@
 
 I'm Dan! A software engineer based out of Toronto who is passionate about React, React-Native, Flutter and pretty much anything front end 😄 
 
-- 🔭 I’m currently working on Mobile and Web projects as TribalScale!
+- 🔭 I’m currently working on Mobile and Web projects at TribalScale!
 - 🌱 Learning to improve my Vim-Fu
 - 💬 Ask me about Bluetooth Low Energy, C++ and highly optimized mobile apps
 - 📫 Send me an [email](dfriyia@gmail.com)
