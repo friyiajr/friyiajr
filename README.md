@@ -6,7 +6,7 @@ I'm Dan! A software engineer based out of Toronto who is passionate about React,
 - 🌱 Learning how to make React Native animations with ReAnimated 2
 - 💬 Ask me about Bluetooth Low Energy, C++ and highly optimized mobile apps
 - 📫 Send me an [email](dfriyia@gmail.com)
-- ⚡ Fun fact - I am a huge fan of Super Smash Bros. Ultimate!
+- ⚡ Fun fact - I am a huge fan of Fitness Wearables and Super Smash Bros. Ultimate!
 
 ### Currently working with
 
