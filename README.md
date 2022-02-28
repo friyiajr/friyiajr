@@ -44,6 +44,7 @@ This is my GitHub page with all the examples I write for articles in <a href="ht
 
 ### Connect with me!
 
+* [Twitter](https://twitter.com/wa2goose)
 * [Linkedin](https://www.linkedin.com/in/thefriyia/)
 * [Instagram](https://www.instagram.com/friyia.io/)
 
