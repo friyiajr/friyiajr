@@ -1,6 +1,8 @@
 ## Hi there 👋 
 
-I'm Dan! A software engineer based out of Toronto who is passionate about React, React-Native, Flutter and pretty much anything front end 😄 
+I'm Dan! A software engineer based out of Toronto who is passionate about React, React-Native, Native iOS with Swift and pretty much anything front end 😄. 
+
+This is my GitHub page with all the examples I write for articles in <a href="https://medium.com/@dfriyia">Medium</a> and <a href="https://blog.sentry.io">Sentry.io</a> ❤️.
 
 - 🔭 I’m currently working on Mobile and Web projects at TribalScale!
 - 🌱 Learning how to make React Native animations with ReAnimated 2
