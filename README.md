@@ -5,7 +5,7 @@ I'm Dan! A software engineer based out of Toronto who is passionate about React,
 This is my GitHub page with all the examples I write for my <a href="https://www.youtube.com/channel/UC4Lepw3SuzwYWcHQ6SDPlEQ">YouTube Videos</a> as well as my articles in <a href="https://medium.com/@dfriyia">Medium</a>❤️.
 
 - 🔭 I’m currently working on React-Native at Shopify!
-- 🌱 Writing about how to make React Native animations with ReAnimated 2
+- 🎥 Making Videos about anything and everything React-Native 🙂
 - 💬 Ask me about Bluetooth Low Energy, C++ and highly optimized mobile apps
 - 📫 Send me an [email](dfriyia@gmail.com)
 - ⚡ Fun fact - I am a huge fan of Fitness Wearables and Super Smash Bros. Ultimate!
