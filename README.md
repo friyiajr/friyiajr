@@ -6,7 +6,7 @@ This is my GitHub page with all the examples I write for my <a href="https://www
 
 - 🔭 I’m currently working on React-Native at Shopify!
 - 🎥 Making Videos about anything and everything React-Native 🙂
-- 💬 Ask me about Bluetooth Low Energy, C++ and highly optimized mobile apps
+- ❤️ Passionate about IoT, Arduino, React-Native and all interesting tech
 - 📫 Send me an [email](dfriyia.lab@gmail.com)
 - ⚡ Fun fact - I am a huge fan of Fitness Wearables and Super Smash Bros. Ultimate!
 
