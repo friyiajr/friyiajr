@@ -2,7 +2,7 @@
 
 I'm Dan! A software engineer based out of Toronto who is passionate about React, React-Native, Native iOS with Swift and pretty much anything front end 😄. 
 
-This is my GitHub page with all the examples I write for my <a href="https://www.youtube.com/channel/UC4Lepw3SuzwYWcHQ6SDPlEQ">YouTube Videos</a> as well as my articles in <a href="https://medium.com/@dfriyia">Medium</a>❤️.
+This is my GitHub page with all the examples I write for my <a href="https://www.youtube.com/channel/UC4Lepw3SuzwYWcHQ6SDPlEQ">YouTube Videos</a> ❤️.
 
 - 🔭 I’m currently working on React-Native at Shopify!
 - 🎥 Making Videos about anything and everything React-Native 🙂
