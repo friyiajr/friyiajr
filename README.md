@@ -6,9 +6,11 @@ This is my GitHub page with all the examples I write for my <a href="https://www
 
 - 🔭 I’m currently working on React-Native at Shopify!
 - 🎥 Making Videos about anything and everything React-Native 🙂
-- ❤️ Passionate about Bluetooth Low Energy, IoT, Arduino, React-Native and all interesting tech
-- 📫 Send me an [email](dfriyia.lab@gmail.com)
-- ⚡ Fun fact - I am a huge fan of Fitness Wearables and Super Smash Bros. Ultimate!
+
+While you're here feel free to check out some of my blog articles 👨🏻‍💻
+* [Getting Started with React Native Skia](https://shopify.engineering/getting-started-with-react-native-skia) 
+* [Improved State Management in Shopify POS with Redux-Toolkit](https://shopify.engineering/react-redux-toolkit-migration)
+* [Tracking Stability in a BLE app using Sentry](https://blog.sentry.io/tracking-stability-in-a-bluetooth-low-energy-based-react-native-app)
 
 ### Currently working with
 
