@@ -8,9 +8,9 @@ This is my GitHub page with all the examples I write for my <a href="https://www
 - 🎥 Making Videos about anything and everything React-Native 🙂
 
 While you're here feel free to check out some of my blog articles 👨🏻‍💻
-* [Getting Started with React Native Skia](https://shopify.engineering/getting-started-with-react-native-skia) - Shopify Engineering
-* [Improved State Management in Shopify POS with Redux-Toolkit](https://shopify.engineering/react-redux-toolkit-migration) - Shopify Engineering
-* [Tracking Stability in a BLE app using Sentry](https://blog.sentry.io/tracking-stability-in-a-bluetooth-low-energy-based-react-native-app) - Sentry Blog
+* Shopify Engineering - [Getting Started with React Native Skia](https://shopify.engineering/getting-started-with-react-native-skia)
+* Shopify Engineering - [Improved State Management in Shopify POS with Redux-Toolkit](https://shopify.engineering/react-redux-toolkit-migration)
+* Sentry Blog - [Tracking Stability in a BLE app using Sentry](https://blog.sentry.io/tracking-stability-in-a-bluetooth-low-energy-based-react-native-app)
 
 ### Currently working with
 
