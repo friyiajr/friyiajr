@@ -6,6 +6,7 @@ This is my GitHub page with all the examples I write for my <a href="https://www
 
 - 🔭 I’m currently working on React-Native at Shopify!
 - 🎥 Making Videos about anything and everything React-Native 🙂
+- 🎮 Playing mediocre Tekken 8 
 
 While you're here feel free to check out some of my blog articles 👨🏻‍💻
 * Shopify Engineering - [Getting Started with React Native Skia](https://shopify.engineering/getting-started-with-react-native-skia)
