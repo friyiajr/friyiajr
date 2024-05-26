@@ -12,9 +12,9 @@ This is my professional portfolio as well as where I keep code from my <a href="
 
 ## And just like everyone else, I enjoy building delightful animations and user interactions 😉
 
-| [Beautiful Interactive Charts]() | [Meta Balls using Shaders](https://github.com/friyiajr/SkiaAnimationShowcase/blob/main/src/Shaders/MetaballShader/index.tsx) | [Game Pad with Skia](https://github.com/friyiajr/RNSkiaArcadePad/blob/main/App.tsx) |
-|----|----|----|
-| <img src="https://github.com/friyiajr/friyiajr/assets/48887088/b81b3f9a-0fa5-4427-b441-104516290acd" width="200"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/112f085c-1f20-4314-aa05-2bb7c0c2cb10" width="250"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/2c8161ab-2778-4503-a1b0-79ba6f49b0f3" width="200"> |
+| [Beautiful Interactive Charts]() | [Meta Balls using Shaders](https://github.com/friyiajr/SkiaAnimationShowcase/blob/main/src/Shaders/MetaballShader/index.tsx) |
+|----|----|
+| <img src="https://github.com/friyiajr/friyiajr/assets/48887088/b81b3f9a-0fa5-4427-b441-104516290acd" width="200"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/112f085c-1f20-4314-aa05-2bb7c0c2cb10" width="250"> |
 
 
 
