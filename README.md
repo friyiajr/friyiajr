@@ -6,7 +6,7 @@ This is my professional portfolio as well as where I keep code from my <a href="
 
 ## On the side, I love working with Hardware Technologies ❤️
 
-| [Apple Watch + React-Native](https://github.com/friyiajr/RealtimeWatchApp) | [Bluetooth Low Energy with Arduino](https://github.com/friyiajr/ArduinoBLESample) |
+| [Apple Watch + React-Native](https://github.com/friyiajr/RealtimeWatchApp) | [Bluetooth Low Energy with Arduino](https://github.com/friyiajr/ArduinoBLESample/blob/main/sketch_sep15a.ino) |
 |----|-----|
 | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/2fb59f19-3069-4eb7-85d3-226980070e10" width="250"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/2c537b80-5871-4bdc-b390-b9796acb592a" width="280">  
     
