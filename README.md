@@ -6,11 +6,18 @@ This is my professional portfolio as well as where I keep code from my <a href="
 
 ## On the side, I love working with Hardware Technologies ❤️
 
-<img src="https://github.com/friyiajr/friyiajr/assets/48887088/2fb59f19-3069-4eb7-85d3-226980070e10" width="200"> <><> <img src="https://github.com/friyiajr/friyiajr/assets/48887088/2c537b80-5871-4bdc-b390-b9796acb592a" width="200">  
+| [Apple Watch + React-Native](https://github.com/friyiajr/RealtimeWatchApp) | [Bluetooth Low Energy with Arduino](https://github.com/friyiajr/ArduinoBLESample) |
+|----|-----|
+| <img src="https://github.com/friyiajr/friyiajr/assets/48887088/2fb59f19-3069-4eb7-85d3-226980070e10" width="250"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/2c537b80-5871-4bdc-b390-b9796acb592a" width="280">  
+    
 
 ## And just like everyone else, I enjoy building delightful animations and user interactions 😉
 
-<img src="https://github.com/friyiajr/friyiajr/assets/48887088/c16332a9-2bfd-46ea-bec9-54490f9f28dd" width="250"> <><> <img src="https://github.com/friyiajr/friyiajr/assets/48887088/6f07d708-e264-4e2d-9365-3800edcaa0bd" width="200"> 
+| [Meta Balls](https://github.com/friyiajr/SkiaAnimationShowcase/blob/main/src/Shaders/MetaballShader/index.tsx) | [Game Pad](https://github.com/friyiajr/RNSkiaArcadePad/blob/main/App.tsx) |
+|----|----|
+| <img src="https://github.com/friyiajr/friyiajr/assets/48887088/c16332a9-2bfd-46ea-bec9-54490f9f28dd" width="250"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/6f07d708-e264-4e2d-9365-3800edcaa0bd" width="200"> |
+
+    
 
 
 
