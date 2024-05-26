@@ -2,9 +2,13 @@
 
 I'm Dan! A software engineer based out of Toronto who is passionate about React, React-Native, Native iOS, Native Android and pretty much anything front end and mobile 😄. 
 
-## My favorite side project is this one using Apple Watch and Expo (React-Native)
+## My favorite side project is this one using Apple Watch and Expo (React-Native) 👨‍🔬
 
 https://github.com/friyiajr/friyiajr/assets/48887088/52847074-ce81-4959-83af-eb0dec380115
+
+## I also have a lot of fun making delightful animations and user experiances ❤️
+
+https://github.com/friyiajr/friyiajr/assets/48887088/a92504aa-d4fb-4f84-aa4c-8bf264c13237
 
 ## While you're here feel free to check out some of my blog articles 👨🏻‍💻
 * Shopify Engineering - [Getting Started with React Native Skia](https://shopify.engineering/getting-started-with-react-native-skia)
