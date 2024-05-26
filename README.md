@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Dan! A software engineer based out of Toronto who is passionate about React, React-Native, Native iOS with Swift and pretty much anything front end 😄. 
+I'm Dan! A software engineer based out of Toronto who is passionate about React, React-Native, Native iOS, Native Android and pretty much anything front end and mobile 😄. 
 
 This is my professional portfolio as well as where I keep code from my <a href="https://www.youtube.com/channel/UC4Lepw3SuzwYWcHQ6SDPlEQ">YouTube Videos</a>.
 
