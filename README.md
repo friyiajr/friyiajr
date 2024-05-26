@@ -13,7 +13,7 @@ This is my professional portfolio as well as where I keep code from my <a href="
 
 ## And just like everyone else, I enjoy building delightful animations and user interactions 😉
 
-| [Meta Balls](https://github.com/friyiajr/SkiaAnimationShowcase/blob/main/src/Shaders/MetaballShader/index.tsx) | [Game Pad](https://github.com/friyiajr/RNSkiaArcadePad/blob/main/App.tsx) |
+| [Meta Balls using Shaders](https://github.com/friyiajr/SkiaAnimationShowcase/blob/main/src/Shaders/MetaballShader/index.tsx) | [Game Pad with Skia](https://github.com/friyiajr/RNSkiaArcadePad/blob/main/App.tsx) |
 |----|----|
 | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/c16332a9-2bfd-46ea-bec9-54490f9f28dd" width="250"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/6f07d708-e264-4e2d-9365-3800edcaa0bd" width="200"> |
 
