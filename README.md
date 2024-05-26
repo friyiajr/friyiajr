@@ -40,5 +40,4 @@ This is my professional portfolio as well as where I keep code from my <a href="
 
 * [Twitter](https://twitter.com/wa2goose)
 * [Linkedin](https://www.linkedin.com/in/thefriyia/)
-* [Instagram](https://www.instagram.com/dan.rnlab/)
 
