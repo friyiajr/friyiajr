@@ -4,6 +4,10 @@ I'm Dan! A software engineer based out of Toronto who is passionate about React,
 
 This is where I keep code from my <a href="https://www.youtube.com/channel/UC4Lepw3SuzwYWcHQ6SDPlEQ">YouTube Videos</a> ❤️.
 
+## My favorite side project is this one using Apple Watch and Expo (React-Native)
+
+https://github.com/friyiajr/friyiajr/assets/48887088/52847074-ce81-4959-83af-eb0dec380115
+
 ## While you're here feel free to check out some of my blog articles 👨🏻‍💻
 * Shopify Engineering - [Getting Started with React Native Skia](https://shopify.engineering/getting-started-with-react-native-skia)
 * Shopify Engineering - [Improved State Management in Shopify POS with Redux-Toolkit](https://shopify.engineering/react-redux-toolkit-migration)
