@@ -8,14 +8,22 @@ This is my professional portfolio as well as where I keep code from my <a href="
 
 | [Apple Watch + React-Native](https://github.com/friyiajr/RealtimeWatchApp) | [Bluetooth Low Energy with Arduino](https://github.com/friyiajr/ArduinoBLESample/blob/main/sketch_sep15a.ino) |
 |----|-----|
-| <img src="https://github.com/friyiajr/friyiajr/assets/48887088/2fb59f19-3069-4eb7-85d3-226980070e10" width="250"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/2c537b80-5871-4bdc-b390-b9796acb592a" width="280">  
-    
+| <img src="https://github.com/friyiajr/friyiajr/assets/48887088/2485a448-0f12-4022-bfd4-3340fd74f853" width="250"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/358a375e-a5c6-4233-8580-6d66beefa51e" width="280">  
 
 ## And just like everyone else, I enjoy building delightful animations and user interactions 😉
 
 | [Beautiful Interactive Charts]() | [Meta Balls using Shaders](https://github.com/friyiajr/SkiaAnimationShowcase/blob/main/src/Shaders/MetaballShader/index.tsx) | [Game Pad with Skia](https://github.com/friyiajr/RNSkiaArcadePad/blob/main/App.tsx) |
 |----|----|----|
-| <img src="https://github.com/friyiajr/friyiajr/assets/48887088/2580de6f-e805-441b-819b-24e5e4b0db43" width="200"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/c16332a9-2bfd-46ea-bec9-54490f9f28dd" width="250"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/6f07d708-e264-4e2d-9365-3800edcaa0bd" width="200"> |
+| <img src="https://github.com/friyiajr/friyiajr/assets/48887088/b81b3f9a-0fa5-4427-b441-104516290acd" width="200"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/c16332a9-2bfd-46ea-bec9-54490f9f28dd" width="250"> | <img src="https://github.com/friyiajr/friyiajr/assets/48887088/6f07d708-e264-4e2d-9365-3800edcaa0bd" width="200"> |
+
+
+
+
+
+
+
+
+
 
 ## While you're here feel free to check out some of my blog articles 👨🏻‍💻
 * Shopify Engineering - [Getting Started with React Native Skia](https://shopify.engineering/getting-started-with-react-native-skia)
@@ -34,4 +42,10 @@ This is my professional portfolio as well as where I keep code from my <a href="
 
 * [Twitter](https://twitter.com/wa2goose)
 * [Linkedin](https://www.linkedin.com/in/thefriyia/)
+
+
+
+
+
+
 
