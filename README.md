@@ -10,6 +10,10 @@ https://github.com/friyiajr/friyiajr/assets/48887088/52847074-ce81-4959-83af-eb0
 
 https://github.com/friyiajr/friyiajr/assets/48887088/a92504aa-d4fb-4f84-aa4c-8bf264c13237
 
+## I'm also not afraid to dive into hardware when the need arises 💡
+
+https://github.com/friyiajr/friyiajr/assets/48887088/b7cef4b4-42a0-4503-98ea-7592bed3ccd3
+
 ## While you're here feel free to check out some of my blog articles 👨🏻‍💻
 * Shopify Engineering - [Getting Started with React Native Skia](https://shopify.engineering/getting-started-with-react-native-skia)
 * Shopify Engineering - [Improved State Management in Shopify POS with Redux-Toolkit](https://shopify.engineering/react-redux-toolkit-migration)
