@@ -2,8 +2,6 @@
 
 I'm Dan! A software engineer based out of Toronto who is passionate about React, React-Native, Native iOS, Native Android and pretty much anything front end and mobile 😄. 
 
-This is where I keep code from my <a href="https://www.youtube.com/channel/UC4Lepw3SuzwYWcHQ6SDPlEQ">YouTube Videos</a> ❤️.
-
 ## My favorite side project is this one using Apple Watch and Expo (React-Native)
 
 https://github.com/friyiajr/friyiajr/assets/48887088/52847074-ce81-4959-83af-eb0dec380115
