@@ -6,6 +6,10 @@ I'm Dan! A software engineer based out of Toronto who is passionate about React,
 
 https://github.com/friyiajr/friyiajr/assets/48887088/52847074-ce81-4959-83af-eb0dec380115
 
+## I also enjoy creating fun interactive user experiances
+
+https://github.com/friyiajr/friyiajr/assets/48887088/48ccdbfa-9c0d-4664-ab97-55fd8cfcea97
+
 ## Lately, I've been dabbling in Hardware as a hobby 💡
 
 https://github.com/friyiajr/friyiajr/assets/48887088/b7cef4b4-42a0-4503-98ea-7592bed3ccd3
