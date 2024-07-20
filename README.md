@@ -8,7 +8,7 @@ https://github.com/friyiajr/friyiajr/assets/48887088/775d5fa4-5033-454d-a0cb-c53
 
 ## I also enjoy creating fun interactive user experiances with Expo (React-Native)
 
-https://github.com/user-attachments/assets/853c9433-0496-443e-8563-7ae749495e91
+https://github.com/user-attachments/assets/e30cde46-d424-498b-bffe-c5eda9b602a8
 
 ## Lately, I've been dabbling in Hardware as a hobby 💡
 
