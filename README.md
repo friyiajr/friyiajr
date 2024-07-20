@@ -2,15 +2,15 @@
 
 I'm Dan! A software engineer based out of Toronto who is passionate about React, React-Native, Native iOS, Native Android and pretty much anything front end and mobile 😄. 
 
-## My favorite side project is this one using Apple Watch and Expo (React-Native) 👨‍🔬
+## My favorite project is this one using Apple Watch and Expo (React-Native) 👨‍🔬 [LINK](https://github.com/friyiajr/RealtimeWatchApp)
 
 https://github.com/friyiajr/friyiajr/assets/48887088/775d5fa4-5033-454d-a0cb-c536df023e07
 
-## I also enjoy creating fun interactive user experiances with Expo (React-Native)
+## I also enjoy creating fun interactive user experiances with Expo (React-Native) 🕹️ [LINK](https://github.com/friyiajr/BrickBreakerSkia)
 
 https://github.com/user-attachments/assets/e30cde46-d424-498b-bffe-c5eda9b602a8
 
-## Lately, I've been dabbling in Hardware as a hobby 💡
+## Lately, I've been dabbling in Hardware as a hobby 💡 [LINK]()
 
 https://github.com/friyiajr/friyiajr/assets/48887088/b7cef4b4-42a0-4503-98ea-7592bed3ccd3
 
