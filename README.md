@@ -10,7 +10,7 @@ https://github.com/friyiajr/friyiajr/assets/48887088/775d5fa4-5033-454d-a0cb-c53
 
 https://github.com/user-attachments/assets/e30cde46-d424-498b-bffe-c5eda9b602a8
 
-## Lately, I've been dabbling in Hardware as a hobby 💡 [LINK]()
+## Lately, I've been dabbling in Hardware as a hobby 💡
 
 https://github.com/friyiajr/friyiajr/assets/48887088/b7cef4b4-42a0-4503-98ea-7592bed3ccd3
 
