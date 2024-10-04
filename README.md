@@ -4,9 +4,9 @@ I'm Dan! A software engineer based out of Toronto who is passionate about React,
 
 I enjoy pushing front end tools to deliver truely unique and interactive user experiances. Check out my projects below for some examples 🙂.
 
-## My favorite project is this one using Apple Watch and Expo (React-Native) 👨‍🔬 [LINK](https://github.com/friyiajr/RealtimeWatchApp)
+## My favorite project is this one using Computer Vision and Expo (React-Native) 👨‍🔬 [LINK](https://github.com/friyiajr/AiSwingPlaneTrackerStarter)
 
-https://github.com/friyiajr/friyiajr/assets/48887088/775d5fa4-5033-454d-a0cb-c536df023e07
+https://github.com/user-attachments/assets/50f54a1b-6b70-4d64-81fd-6be667055409
 
 ## I've also been known to create animation and gesture rich UIs with Expo (React-Native) 🕹️ [LINK](https://github.com/friyiajr/BrickBreakerSkia)
 
