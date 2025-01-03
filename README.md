@@ -12,9 +12,9 @@ https://github.com/user-attachments/assets/50f54a1b-6b70-4d64-81fd-6be667055409
 
 https://github.com/user-attachments/assets/e30cde46-d424-498b-bffe-c5eda9b602a8
 
-## Lately, I've been dabbling in Hardware as a hobby 💡 [LINK](https://github.com/friyiajr/ArduinoBLESample/blob/main/sketch_sep15a.ino)
+## Lately, I've been trying to integrate more mathematics based animations 💡 [LINK](https://github.com/friyiajr/ArduinoBLESample/blob/main/sketch_sep15a.ino)
 
-https://github.com/friyiajr/friyiajr/assets/48887088/b7cef4b4-42a0-4503-98ea-7592bed3ccd3
+https://github.com/user-attachments/assets/d72a74ab-f1d5-45ba-8786-ba922891ef47
 
 ## While you're here feel free to check out some of my blog articles 👨🏻‍💻
 * Shopify Engineering - [Getting Started with React Native Skia](https://shopify.engineering/getting-started-with-react-native-skia)
