@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/50f54a1b-6b70-4d64-81fd-6be667055409
 
 https://github.com/user-attachments/assets/e30cde46-d424-498b-bffe-c5eda9b602a8
 
-## Lately, I've been trying to integrate more mathematics based animations 💡 [LINK](https://github.com/friyiajr/ArduinoBLESample/blob/main/sketch_sep15a.ino)
+## On the side, I also like to tinker with computer graphics 🔥 [LINK](https://github.com/friyiajr/Projection3D)
 
 https://github.com/user-attachments/assets/d72a74ab-f1d5-45ba-8786-ba922891ef47
 
